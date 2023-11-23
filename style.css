@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+ text-align: center;
+
+}
+.cu{
+    width: 500px;
+    margin-bottom: 70px;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.pie{
+    background-color: darkgray;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.ho{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tarjeta{
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+#hi{
+    width: 20px;
+    height: 20px;
+}
+
+#historia{
+    background-color:midnightblue;
+    color:white;
+}
+
+#canciones{
+    background-color:brown;
+    color: white;
+}
+
+#album{
+    background-color: orangered;
+    color: white;
+}
+
+#cancionesfav{
+    background-color: crimson;
+    color: white;
+}
